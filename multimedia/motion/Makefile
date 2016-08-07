@@ -11,12 +11,12 @@ PKG_NAME:=motion
 PKG_VERSION=3.4.0-20141018-$(PKG_SOURCE_VERSION)
 PKG_RELEASE:=1
 
-PKG_MAINTAINER:=Roger D <rogerdammit@gmail.com>
+PKG_MAINTAINER:=Zacheusz S <zacheusz.s+git@gmail.com>
 PKG_LICENSE:=GPLv2
 PKG_LICENSE_FILES:=COPYING
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/Mr-Dave/motion.git
+PKG_SOURCE_URL:=https://github.com/zacheusz/motion.git
 PKG_SOURCE_VERSION:=9479d910f2149b5558788bb86f97f26522794212
 
 PKG_SOURCE_SUBDIR:=$(PKG_NAME)-$(PKG_VERSION)
